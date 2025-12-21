@@ -57,14 +57,14 @@ Atualmente, desenvolvo projetos próprios e soluções digitais voltadas para **
 
 **Estudando e evoluindo em**
 <br>
-[![Learning](https://skillicons.dev/icons?i=ts,react,git,github,supabase)]()
+[![Learning](https://skillicons.dev/icons?i=ts,react,github,java,python,c,php,swift)]()
 
 <br>
 
 <!-- ===================== FERRAMENTAS ===================== -->
 ### ⚙️ Ferramentas
 
-[![Tools](https://skillicons.dev/icons?i=vscode,windows,notion)]()
+[![Tools](https://skillicons.dev/icons?i=vscode,windows)]()
 
 <br>
 
@@ -74,9 +74,9 @@ Atualmente, desenvolvo projetos próprios e soluções digitais voltadas para **
 <p>
 📧 <b>Email:</b> napier.vh7@gmail.com  
 <br>
-💼 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/brunocarus/">linkedin.com/in/brunocarus</a>  
+💼 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/victorhvnapier/">linkedin.com/in/victorhvnapier</a>  
 <br>
-📱 <b>Instagram:</b> <a href="https://www.instagram.com/ibrunoodev">@ibrunoodev</a>
+📱 <b>Instagram:</b> <a href="https://www.instagram.com/7napier">@7napier</a>
 </p>
 
 <br>
