@@ -25,7 +25,7 @@ Atualmente, desenvolvo projetos próprios e soluções digitais voltadas para **
 
 <!-- ===================== STATS ===================== -->
 <div align="center">  
-  <img width="48%" src="[(https://github.com/NapierX7/Atividade_Matematica_Discreta]
+  <img width="48%" src="(https://github.com/NapierX7/Atividade_Matematica_Discreta"
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorNapier&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=0d1117"/>
 </div>
 
