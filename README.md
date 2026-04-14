@@ -25,10 +25,16 @@ Além do Front-End, estou me preparando para a certificação **Microsoft Azure 
 <br>
 
 <!-- ===================== STATS ===================== -->
-<div align="center"> 
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=NapierX7&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NapierX7&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=0d1117" />
-</div>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=NapierX7&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NapierX7&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=0d1117" alt="Top Langs" />
+    </td>
+  </tr>
+</table>
 
 <br>
 
@@ -60,26 +66,26 @@ Além do Front-End, estou me preparando para a certificação **Microsoft Azure 
 
 **Desenvolvimento Web & Dados**
 <br>
-<img src="https://skillicons.dev/icons?i=html,css,js,supabase" />
+![HTML CSS JS Supabase](https://skillicons.dev/icons?i=html,css,js,supabase)
 
-<br><br>
+<br>
 
 **Cloud Computing (Preparação AZ-900)**
 <br>
-<img src="https://skillicons.dev/icons?i=azure" />
+![Azure](https://skillicons.dev/icons?i=azure)
 
-<br><br>
+<br>
 
 **Estudando e evoluindo em**
 <br>
-<img src="https://skillicons.dev/icons?i=ts,react,github,java,python,c,php,swift" />
+![Techs](https://skillicons.dev/icons?i=ts,react,github,java,python,c,php,swift)
 
 <br>
 
 <!-- ===================== FERRAMENTAS ===================== -->
 ### ⚙️ Ferramentas
 
-<img src="https://skillicons.dev/icons?i=vscode,windows,git" />
+![Tools](https://skillicons.dev/icons?i=vscode,windows,git)
 
 <br>
 
